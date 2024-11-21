@@ -1,4 +1,4 @@
-# uhhRobbieColor
-Discord Typing Activity Changes Color 
+# uhhRobbieColour
+Discord Typing Activity Changes Colour 
 
 CHANGES THE COLOUR OF A USER'S ROLE WHEN ACTIVE (TYPING) IN A SPECIFIED GUILD/SERVER
